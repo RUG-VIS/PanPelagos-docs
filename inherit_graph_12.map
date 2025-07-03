@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classFileReader.html" title="A helper class to read a 4D (time, space) slice of a file." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node2" href="$classNetCDFReader.html" title="A FileReader class reading from NetCDF (.nc, .nc4) files." alt="" coords="183,5,339,32"/>
+</map>

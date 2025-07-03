@@ -1,0 +1,4 @@
+<map id="SinkingKernel" name="SinkingKernel">
+<area shape="rect" id="node1" title="Implemens a simple constant&#45;advection kernel as plugin." alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node2" href="$classKernel.html" title="Advection Kernel abstract base class. Subclasses are user defined plugins (both C++ and shedskin&#45;pyth..." alt="" coords="29,5,92,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Kernel" name="Kernel">
+<area shape="rect" id="node1" title="Advection Kernel abstract base class. Subclasses are user defined plugins (both C++ and shedskin&#45;pyth..." alt="" coords="239,5,301,32"/>
+<area shape="rect" id="node2" href="$classForwardEulerKernel.html" title="Implements simple forward Euler diffusion as kernel plugin." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node3" href="$classPyKernel.html" title="Implements (at current) 4th order Runge&#45;Kutta in Python code." alt="" coords="177,80,256,107"/>
+<area shape="rect" id="node4" href="$classRK4Kernel.html" title="Implements the 4th order Runge&#45;Kutta method as kernel plugin." alt="" coords="280,80,369,107"/>
+<area shape="rect" id="node5" href="$classSinkingKernel.html" title="Implemens a simple constant&#45;advection kernel as plugin." alt="" coords="393,80,504,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PyParticle" name="PyParticle">
+<area shape="rect" id="node1" title="A wrapper class for interfacing with Python&#39;s Particle object." alt="" coords="71,95,157,121"/>
+<area shape="rect" id="node2" href="$classParticle.html" title="Abstract base class for each Particle. Provides methods to get and set particle data attributes...." alt="" coords="5,13,76,39"/>
+<area shape="rect" id="node3" href="$classIPyWrapper.html" title=" " alt="" coords="100,5,275,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="PyKernel" name="PyKernel">
+<area shape="rect" id="node1" title="Implements (at current) 4th order Runge&#45;Kutta in Python code." alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node2" href="$classKernel.html" title="Advection Kernel abstract base class. Subclasses are user defined plugins (both C++ and shedskin&#45;pyth..." alt="" coords="13,5,76,32"/>
+</map>

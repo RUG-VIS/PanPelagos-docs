@@ -1,0 +1,4 @@
+<map id="PeriodicBoundary" name="PeriodicBoundary">
+<area shape="rect" id="node1" title="Implements the Periodic boundary condition as boundary handler plugin." alt="" coords="21,80,157,107"/>
+<area shape="rect" id="node2" href="$classBaseBoundaryHandler.html" title=" " alt="" coords="5,5,172,32"/>
+</map>

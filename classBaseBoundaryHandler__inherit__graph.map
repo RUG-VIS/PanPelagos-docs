@@ -1,0 +1,9 @@
+<map id="BaseBoundaryHandler" name="BaseBoundaryHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,172,149"/>
+<area shape="rect" id="node2" href="$classTypedBoundaryHandler.html" title=" " alt="" coords="239,5,412,47"/>
+<area shape="rect" id="node4" href="$classDeletionBoundary.html" title="Implements the Sink boundary condition as boundary handler plugin." alt="" coords="256,71,395,98"/>
+<area shape="rect" id="node5" href="$classPeriodicBoundary.html" title="Implements the Periodic boundary condition as boundary handler plugin." alt="" coords="257,122,393,149"/>
+<area shape="rect" id="node6" href="$classPyBoundaryHandler.html" title="Implements (at current) the periodic boudnary condition, in python code." alt="" coords="250,173,401,199"/>
+<area shape="rect" id="node7" href="$classTypedBoundaryHandler.html" title=" " alt="" coords="220,223,431,250"/>
+<area shape="rect" id="node3" href="$classDirichletPositionBoundary.html" title="Implements the Dirichlet boundary condition as boundary handler plugin." alt="" coords="479,13,669,39"/>
+</map>

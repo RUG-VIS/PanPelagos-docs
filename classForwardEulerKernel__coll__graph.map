@@ -1,0 +1,4 @@
+<map id="ForwardEulerKernel" name="ForwardEulerKernel">
+<area shape="rect" id="node1" title="Implements simple forward Euler diffusion as kernel plugin." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node2" href="$classKernel.html" title="Advection Kernel abstract base class. Subclasses are user defined plugins (both C++ and shedskin&#45;pyth..." alt="" coords="48,5,111,32"/>
+</map>

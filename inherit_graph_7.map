@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classField.html" title="The general abstract Field class. It stores 3D data of any type and shape." alt="" coords="56,5,109,32"/>
+<area shape="rect" id="node2" href="$classNetCDFField.html" title="A class representing a field of data read from a NetCDF file." alt="" coords="208,5,367,32"/>
+<area shape="rect" id="node3" href="$classPyField.html" title="A wrapper class for interfacing with Python&#39;s Field object." alt="" coords="253,60,322,87"/>
+<area shape="rect" id="node4" href="$classIPyWrapper.html" title=" " alt="" coords="5,57,160,98"/>
+</map>

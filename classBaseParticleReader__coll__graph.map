@@ -1,0 +1,4 @@
+<map id="BaseParticleReader" name="BaseParticleReader">
+<area shape="rect" id="node1" title="Particle reader abstract class." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node2" href="$classBaseParticleIO.html" title="Base class for particle IO classes (BaseParticleReader, BaseParticleWriter). Contains registration of..." alt="" coords="21,5,137,32"/>
+</map>
